@@ -81,7 +81,6 @@
 </p>
 
 ---
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=mithilesh-24%23&label=Profile%20Views&color=0e75b6&style=flat)
-
+<p align="center">
+  <img src="https://hits.sh/github.com/mithilesh-24/mithilesh-24.svg?style=flat&label=Profile%20Views&color=0e75b6" alt="Profile Views" />
+</p>
