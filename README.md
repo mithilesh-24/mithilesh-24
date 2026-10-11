@@ -82,6 +82,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=mithilesh-24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
-</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mithilesh-24%23&label=Profile%20Views&color=0e75b6&style=flat)
+
